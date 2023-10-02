@@ -8,7 +8,7 @@ I am captivated by the power of data and the insights it can unveil. My enthusia
 
 ## 🛠️ Technical Proficiency
 
-- **Languages:** Python, SQL
+- **Languages:** Python, C/C++, SQL, PSQL
 - **Databases:** PostgreSQL, Apache Cassandra, AWS Redshift
 - **Tools:** Apache Airflow, Docker, AWS (S3, EC2, Redshift), Git
 
